@@ -11,7 +11,7 @@
 
 
 
-# 2_ Revenue Investgating Project
+# 2_ Revenue Investigating  Project
 
 ## Implemntaion Steps For The Project
 ### 1_Cleaning the data.
